@@ -16,7 +16,7 @@ const routes = {
   "cloudsmith.bitypes.com": "https://docker.cloudsmith.io",
   "ecr.bitypes.com": "https://public.ecr.aws",
 
-  // staging
+  // staging 
   "docker-staging.bitypes.com": dockerHub,
 };
 
